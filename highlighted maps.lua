@@ -1,3 +1,3 @@
 return {
-  "The Worlds Smallest Violin"
+  "None >w<"
 }
