@@ -1,3 +1,3 @@
 return {
-  "Smallest Violin"
+  ">W<"
 }
