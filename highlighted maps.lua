@@ -8,7 +8,7 @@ return {
   "Wall Jump Practice",
   "Agitato 3.0 OLD",
   "Stop",
-  "Boss Fight"
+  "Boss Fight",
   ">w<",
   ":3"
 }
