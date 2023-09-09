@@ -1,6 +1,6 @@
 return {
   3,
-  "N",
+  "A3",
   "POOPY",
   "POOPIS",
   "Smallest Violin",
