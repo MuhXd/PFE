@@ -6,7 +6,7 @@ return {
   "Travel 1.5 : Restart Time",
   "Dark drive",
   "Familiar Ruins 2023 Finale Update",
-  "Mandragora 2.0"
+  "Mandragora 2.0",
   "(Unnerfed) Technological Destruction",
   "Wall Jump Practice",
   "Agitato 3.0 OLD",
