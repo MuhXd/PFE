@@ -1,6 +1,6 @@
 return {
   3,
-  "N12",
+  "N13",
   "POOPY",
   "The Overflow",
   "(Unnerfed) Technological Destruction",
