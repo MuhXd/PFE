@@ -1,13 +1,12 @@
 return {
   3,
-  "F1",
+  "N1",
   "POOPY",
-  "POOPIS",
-  "Smallest Violin",
   "The Overflow",
+  "(Unnerfed) Technological Destruction"
   "Wall Jump Practice",
   "Agitato 3.0 OLD",
-  "Stop",
+  "Jumble (Hard Ver?)",
   ">w<",
   ":3"
 }
