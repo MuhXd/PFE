@@ -7,7 +7,7 @@ return {
   "Insane Mashup [Old Layout] [May 8, 2021]",
   "Insane Mashup",
   "Quiz",
-  "BEANOS",
+  "Beanos",
   "MonoLight",
   "Random Map 3",
   "green sector",
